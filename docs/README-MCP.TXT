@@ -42,7 +42,7 @@ Note: MCP versions 9.x and higher should also work properly with the Java 8 JDK
 How to use:
 ===========
 1) Prepare the files:
-- Copy the "minecraft_server.1.12.jar" file into the "jars" folder.
+- Copy the "minecraft_server.1.12.2.jar" file into the "jars" folder.
 - Either copy the folders "assets", "libraries" and "versions" from "%APPDATA$\.minecraft" folder into the "jars" folder or let the decompile scripts do it automatically for you.
 - No need to copy the folders "bin" and "resources" from your "%APPDATA$\.minecraft" folder into the "jars" folder anymore - in fact, it does not work that way anymore.
 
