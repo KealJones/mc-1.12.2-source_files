@@ -1124,6 +1124,7 @@ func_190952_a
 func_190953_b
 func_190954_c
 func_190955_b
+func_190970_b
 func_190972_g
 func_190973_f
 func_190994_a
@@ -1309,6 +1310,9 @@ func_194142_e
 func_194143_e
 func_194163_a
 func_194164_a
+func_194304_b
+func_194305_c
+func_194306_b
 func_70451_h
 func_70527_a
 func_71363_D

@@ -1,7 +1,7 @@
 diff -r -U 3 minecraft_server\net\minecraft\block\BlockNewLog.java minecraft_server_patched\net\minecraft\block\BlockNewLog.java
 --- minecraft_server\net\minecraft\block\BlockNewLog.java
 +++ minecraft_server_patched\net\minecraft\block\BlockNewLog.java
-@@ -61,6 +61,7 @@
+@@ -68,6 +68,7 @@
        return iblockstate;
     }
  
