@@ -1,1 +1,12 @@
 /bin/
+/jars/
+/logs/
+/mc-1.12.2-decompiled/
+/runtime/
+/temp/src/minecraft/net
+/temp/src/minecraft_server/net
+/temp/*.jar
+/temp/*.log
+/temp/*.srg
+/temp/*.txt
+/temp/*.md5
